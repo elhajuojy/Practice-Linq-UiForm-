@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\tdi\2eme ans 203\ADO.NET\Linq\LinqPracticeUi\LinqPracticeUi\bin\Debug\LinqPracticeUi.exe.config
+C:\Users\pc\Desktop\tdi\2eme ans 203\ADO.NET\Linq\LinqPracticeUi\LinqPracticeUi\bin\Debug\LinqPracticeUi.exe
+C:\Users\pc\Desktop\tdi\2eme ans 203\ADO.NET\Linq\LinqPracticeUi\LinqPracticeUi\bin\Debug\LinqPracticeUi.pdb
+C:\Users\pc\Desktop\tdi\2eme ans 203\ADO.NET\Linq\LinqPracticeUi\LinqPracticeUi\obj\Debug\LinqPracticeUi.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\tdi\2eme ans 203\ADO.NET\Linq\LinqPracticeUi\LinqPracticeUi\obj\Debug\LinqPracticeUi.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\tdi\2eme ans 203\ADO.NET\Linq\LinqPracticeUi\LinqPracticeUi\obj\Debug\LinqPracticeUi.LinqUiForm.resources
+C:\Users\pc\Desktop\tdi\2eme ans 203\ADO.NET\Linq\LinqPracticeUi\LinqPracticeUi\obj\Debug\LinqPracticeUi.Properties.Resources.resources
+C:\Users\pc\Desktop\tdi\2eme ans 203\ADO.NET\Linq\LinqPracticeUi\LinqPracticeUi\obj\Debug\LinqPracticeUi.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\tdi\2eme ans 203\ADO.NET\Linq\LinqPracticeUi\LinqPracticeUi\obj\Debug\LinqPracticeUi.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\tdi\2eme ans 203\ADO.NET\Linq\LinqPracticeUi\LinqPracticeUi\obj\Debug\LinqPracticeUi.exe
+C:\Users\pc\Desktop\tdi\2eme ans 203\ADO.NET\Linq\LinqPracticeUi\LinqPracticeUi\obj\Debug\LinqPracticeUi.pdb
