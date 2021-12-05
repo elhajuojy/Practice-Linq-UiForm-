@@ -83,12 +83,18 @@ namespace LinqPracticeUi
         private void btnGroup_Click(object sender, EventArgs e)
         {
             var reGroup = from personne in listPersonne
-                          group personne by personne.City into groupbyCity
-                          select new { groupbyCity };
+                          group personne by personne.City;
             LsBox.Items.Clear();
             foreach(var person in reGroup)
             {
-                LsBox.Items.Add(person.groupbyCity);
+                LsBox.Items.Add(person.Key);
+                foreach(var Listpre in person)
+                {
+                    LsBox.Items.Add("----> " + Listpre.FirstName + " " + Listpre.LastName);
+
+                }
+                LsBox.Items.Add("-------------------------");
+               
             }              
         }
     }
